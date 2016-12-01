@@ -5,7 +5,7 @@ return {
 	superadmins = {232006008,239299058},
 	log = {
 		chat = -1001057801239, --Your log chat, where your bot must be added!
-		admin = 232006008,239299058 --The admin.
+		admin = 232006008,239299058, --The admin.
 		stats = nil
 	},
 	human_readable_version = '4.2.0',
